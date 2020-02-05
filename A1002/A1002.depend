@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571203729 source:e:\code\pat problems\a1002\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+
